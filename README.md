@@ -1,2 +1,2 @@
 # Space Game
-A traditional spaceship game, made in LibGDX
+### A traditional concept of a spaceship game - with a Czech UI!
